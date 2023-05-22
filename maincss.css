@@ -160,6 +160,7 @@ body{
 	margin-top:20px;
 	color:white;
 	font-size:15px;
+	margin-bottom:50px;
 }
 
 .grid-container{
@@ -167,4 +168,9 @@ body{
 	display:grid;
 	place-items: center;
 	height:100vh;
+}
+
+.last-anchor{
+	text-decoration: none;
+	color:#278EA5;
 }
