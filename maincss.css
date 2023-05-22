@@ -179,3 +179,11 @@ body{
 		width:75%;
 	}
 }
+.aboutusstyle{
+	color:black;
+	border:none;
+	border-radius:20px;
+	background-color:#21E6C1;
+	padding:5px;
+	margin:auto;
+}
