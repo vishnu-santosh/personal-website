@@ -174,3 +174,8 @@ body{
 	text-decoration: none;
 	color:#278EA5;
 }
+@media (max-width:500px){
+	.big-size{
+		width:75%;
+	}
+}
